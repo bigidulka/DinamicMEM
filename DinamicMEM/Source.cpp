@@ -1,4 +1,4 @@
-#include<iostream>
+﻿#include<iostream>
 using namespace std; 
 
 #define DYNAMIC_MEM_1
