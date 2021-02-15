@@ -1,7 +1,7 @@
 ﻿#include<iostream>
 using namespace std; 
 
-#define DYNAMIC_MEM_1
+//#define DYNAMIC_MEM_1
 #define DYNAMIC_MEM_2
 
 #ifdef DYNAMIC_MEM_1
