@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DinamicMEM", "DinamicMEM\Di
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "zadacha", "zadacha\zadacha.vcxproj", "{CBA4089C-3C87-4D53-8E1C-0BE754974DDE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dinamicmeM_dz", "dinamicmeM_dz\dinamicmeM_dz.vcxproj", "{480B89B7-9009-4617-BE5C-C00BF68D340E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{CBA4089C-3C87-4D53-8E1C-0BE754974DDE}.Release|x64.Build.0 = Release|x64
 		{CBA4089C-3C87-4D53-8E1C-0BE754974DDE}.Release|x86.ActiveCfg = Release|Win32
 		{CBA4089C-3C87-4D53-8E1C-0BE754974DDE}.Release|x86.Build.0 = Release|Win32
+		{480B89B7-9009-4617-BE5C-C00BF68D340E}.Debug|x64.ActiveCfg = Debug|x64
+		{480B89B7-9009-4617-BE5C-C00BF68D340E}.Debug|x64.Build.0 = Debug|x64
+		{480B89B7-9009-4617-BE5C-C00BF68D340E}.Debug|x86.ActiveCfg = Debug|Win32
+		{480B89B7-9009-4617-BE5C-C00BF68D340E}.Debug|x86.Build.0 = Debug|Win32
+		{480B89B7-9009-4617-BE5C-C00BF68D340E}.Release|x64.ActiveCfg = Release|x64
+		{480B89B7-9009-4617-BE5C-C00BF68D340E}.Release|x64.Build.0 = Release|x64
+		{480B89B7-9009-4617-BE5C-C00BF68D340E}.Release|x86.ActiveCfg = Release|Win32
+		{480B89B7-9009-4617-BE5C-C00BF68D340E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
